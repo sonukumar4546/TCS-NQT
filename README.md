@@ -11,4 +11,4 @@
 | 7 | First Repeating Element | https://www.geeksforgeeks.org/problems/first-repeating-element4018/1?page=3&category=Arrays,two-pointer-algorithm,Pointers&sortBy=submissions | Use unordered_map to count frequency, then scan left→right from arr and return i+1 for first freq>1 (else -1). |
 | 8 | Frequency of Array Elements | https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1?page=1&sprint=63af446b97dfa5601c7b06b52b991d07&sortBy=submissions | Convert array into frequency array (counts of 1..N). |
 | 9 | Reverse an Array | https://www.geeksforgeeks.org/problems/reverse-an-array/1?page=2&category=Arrays,Pointers&difficulty=Basic,Easy&sortBy=submissions | Use two pointers (l=0, r=n-1) and swap while l<r.
-| 8 | Count Pairs with Given Sum 0 | https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1?page=1&category=Arrays,Pointers&difficulty=Basic,Easy&sortBy=submissions |  |
+| 10 | Count Pairs with Given Sum 0 | https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1?page=1&category=Arrays,Pointers&difficulty=Basic,Easy&sortBy=submissions |  |
