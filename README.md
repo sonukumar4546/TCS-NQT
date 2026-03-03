@@ -12,4 +12,4 @@
 | 8 | Frequency of Array Elements | https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1?page=1&sprint=63af446b97dfa5601c7b06b52b991d07&sortBy=submissions | Convert array into frequency array (counts of 1..N). |
 | 9 | Reverse an Array | https://www.geeksforgeeks.org/problems/reverse-an-array/1?page=2&category=Arrays,Pointers&difficulty=Basic,Easy&sortBy=submissions | Use two pointers (l=0, r=n-1) and swap while l<r.
 | 10 | Count Pairs with Given Sum 0 | https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1?page=1&category=Arrays,Pointers&difficulty=Basic,Easy&sortBy=submissions |  |
-| 11| Reverse a Number | https://www.geeksforgeeks.org/problems/reverse-a-number/0 | rev = rev*10 + (n%10); n/=10; stop when n==0. If input can be negative, store sign and reverse abs(n). |
+| 11| Reverse a Number | [https://www.geeksforgeeks.org/problems/reverse-a-number/0](https://www.geeksforgeeks.org/problems/reverse-digit0316/1) | rev = rev*10 + (n%10); n/=10; stop when n==0. If input can be negative, store sign and reverse abs(n). |
