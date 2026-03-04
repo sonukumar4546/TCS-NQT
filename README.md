@@ -17,4 +17,4 @@
 | 13 | Prime Number | Basic | [GFG](https://www.geeksforgeeks.org/problems/prime-number2314/1) | ✅ Done | — | Check divisibility up to `i*i<=n`; handle `n<=1`. |
 | 14 | Number of Factors | Easy | [GFG](https://www.geeksforgeeks.org/problems/number-of-factors1435/1) | ✅ Done | — | Count divisors up to `sqrt(n)`; handle perfect squares. |
 | 15 | Palindrome Number | Basic | [GFG](https://www.geeksforgeeks.org/problems/palindrome0746/1) | ✅ Done | — | Reverse number and compare with original (store a copy). |
-| 16 | LCM | Easy | [GFG](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | ✅ Done | — | `gcd` via Euclid; `lcm=(a/gcd)*b` (use long long). |
+| 16 | GCD | Easy | [GFG](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | ✅ Done | — | `gcd` via Euclid; `lcm=(a/gcd)*b` (use long long). |
