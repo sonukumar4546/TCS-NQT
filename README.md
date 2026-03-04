@@ -16,4 +16,5 @@
 | 12 | Sum of AP | https://www.geeksforgeeks.org/problems/sum-of-ap-series4512/1 | Use AP sum formula: n*(2*a + (n-1)*d)/2 (use long long). |
 | 13 | Prime Number | https://www.geeksforgeeks.org/problems/prime-number2314/1 | Handle n<=1 as not prime; check divisibility from 2 to  (or i*i<=n) and return prime if none. |
 | 14 | Number of Factors | https://www.geeksforgeeks.org/problems/number-of-factors1435/1 | Count divisors by looping i=1..sqrt(n). If i divides n, add 2 (i and n/i); add 1 if i*i==n. |
-| 15 | Palindrome Number | https://www.geeksforgeeks.org/problems/palindrome0746/1 | Reverse the number and compare with original (store a copy). Or compare digits from both ends without converting to string. Handle negatives as not palindrome (if applicable). |
+| 15 | Palindrome Number | https://www.geeksforgeeks.org/problems/palindrome0746/1 | Reverse the number and compare with original (store a copy). Or compare digits from both ends without converting to[...] |
+| 16 | LCM | https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1 | Compute gcd using Euclid (while b { a%=b; swap }), then lcm = (a/gcd)*b (use long long to avoid overflow). |
