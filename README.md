@@ -18,3 +18,4 @@
 | 14 | Number of Factors | Easy | [GFG](https://www.geeksforgeeks.org/problems/number-of-factors1435/1) | ✅ Done | — | Count divisors up to `sqrt(n)`; handle perfect squares. |
 | 15 | Palindrome Number | Basic | [GFG](https://www.geeksforgeeks.org/problems/palindrome0746/1) | ✅ Done | — | Reverse number and compare with original (store a copy). |
 | 16 | GCD | Easy | [GFG](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | ✅ Done | — | `gcd` via Euclid; `lcm=(a/gcd)*b` (use long long). |
+| 17 | LCM of Two Numbers | Easy | [GFG](https://www.geeksforgeeks.org/problems/lcm-of-two-numbers/1) | ✅ Done | — | `gcd` via Euclid; `lcm=(a/gcd)*b` (use long long, divide first). |
