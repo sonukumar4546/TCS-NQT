@@ -27,5 +27,4 @@
 | 23 | Max Consecutive One      | Medium     | [GFG](https://www.geeksforgeeks.org/problems/max-consecutive-one/1)          | ✅ Done | —    | Keep current streak of 1s and max; reset on 0. |
 | 24 | 1-D Prefix Sum | Medium | [GFG](https://www.geeksforgeeks.org/problems/1-d-prefix-sum/1) | ✅ Done | — | — |
 | 25 | Equal Sum | Medium | [GFG](https://www.geeksforgeeks.org/problems/equal-sum0810/1) | ✅ Done | — | Use prefix sum; if left sum == right sum return true else false. |
-
-| 26 | Buy Stock 2 | Medium | [GFG](https://www.geeksforgeeks.org/problems/buy-stock-2/1) | ✅ Done | — | Single transaction: keep `minPrice` so far; for each `price[i]` update `maxProfit = max(maxProfit, price[i] - minPrice)`; then `minPrice = min(minPrice, price[i]).
+| 26 | Buy Stock 2 | Medium | [GFG](https://www.geeksforgeeks.org/problems/buy-stock-2/1) | ✅ Done | — | Single transaction: keep `minPrice` so far; for each `price[i]` update `maxProfit = max(maxProfit, price[i] - minPrice)`; then `minPrice = min(minPrice, price[i]).|
