@@ -24,6 +24,6 @@
 | 20 | Rotate Array | Medium | [GFG](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) | ✅ Done | — | — |
 | 21 | Mean of Array | Easy | [GFG](https://www.geeksforgeeks.org/problems/mean0021/1) | ✅ Done | — | Compute sum (use long long) and return `sum / n` (integer division as per problem). |
 | 22 | Check if an Array is Sorted | Easy | [GFG](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | ✅ Done | — | — |
-
+| 23 | Max Consecutive One      | Medium     | [GFG](https://www.geeksforgeeks.org/problems/max-consecutive-one/1)          | ✅ Done | —    | Keep current streak of 1s and max; reset on 0.
 
 
