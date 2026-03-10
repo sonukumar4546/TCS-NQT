@@ -21,3 +21,4 @@
 | 17 | LCM of Two Numbers | Easy | [GFG](https://www.geeksforgeeks.org/problems/lcm-of-two-numbers/1) | ✅ Done | — | `gcd` via Euclid; `lcm=(a/gcd)*b` (use long long, divide first). |
 | 18 | Rotate Array by K (Clockwise) | Easy | [GFG](https://www.geeksforgeeks.org/problems/rotate-array-clockwise/1) | ✅ Done | — | swap(begin to end) -> swap(0 to k-1) -> swap(k to n-1). |
 | 19 | Array Subset of Another Array | Medium | [GFG](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | ✅ Done | — | issubset |
+| 20 | Rotate Array | Medium | [GFG](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) | ✅ Done | — | — |
