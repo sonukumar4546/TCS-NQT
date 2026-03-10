@@ -26,3 +26,4 @@
 | 22 | Check if an Array is Sorted | Easy | [GFG](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | ✅ Done | — | — |
 | 23 | Max Consecutive One      | Medium     | [GFG](https://www.geeksforgeeks.org/problems/max-consecutive-one/1)          | ✅ Done | —    | Keep current streak of 1s and max; reset on 0. |
 | 24 | 1-D Prefix Sum | Medium | [GFG](https://www.geeksforgeeks.org/problems/1-d-prefix-sum/1) | ✅ Done | — | — |
+| 25 | Equal Sum | Medium | [GFG](https://www.geeksforgeeks.org/problems/equal-sum0810/1) | ✅ Done | — | Use prefix sum; if left sum == right sum return true else false. |
