@@ -31,3 +31,4 @@
 | 27.| Addition of Two Square Matrices         | Easy       | [GFG](https://www.geeksforgeeks.org/problems/addition-of-two-square-matrices4916/1)|  ✅ Done | — | Single transaction: keep|
 | 28 | Replace elements by its rank | Medium | [GFG](https://www.geeksforgeeks.org/problems/replace-elements-by-its-rank-in-the-array/1) | ✅ Done | — | — |
 | 29 | Kadane's Algorithm | Medium | [GFG](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) | ✅ Done | — | Find maximum subarray sum using dynamic programming. |
+| 30 | Max Sum Subarray of Size K | Hard | [GFG](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | ✅ Done | — | Sliding window: maintain sum of current window (size k), update max, slide by subtracting outgoing + adding incoming. |
