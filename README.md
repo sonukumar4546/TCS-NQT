@@ -33,3 +33,4 @@
 | 29 | Kadane's Algorithm | Medium | [GFG](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) | ✅ Done | — | Find maximum subarray sum using dynamic programming. |
 | 30 | Max Sum Subarray of Size K | Hard | [GFG](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | ✅ Done | — | Sliding window: maintain sum of current window (size k), update max, slide by subtracting outgoing + adding incoming. |
 | 31 | Count Distinct Elements in Every Window | Hard | [GFG](https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) | ✅ Done | — | Use hashmap (unordered_map) for freq + vector for answers; slide window by decrement/removing left and adding right. |
+| 32 | Print first n Fibonacci Numbers | Basic | [GFG](https://www.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1) | ✅ Done | — | c = a + b |
