@@ -28,7 +28,7 @@
 | 24 | 1-D Prefix Sum | Medium | [GFG](https://www.geeksforgeeks.org/problems/1-d-prefix-sum/1) | ✅ Done | — | — |
 | 25 | Equal Sum | Medium | [GFG](https://www.geeksforgeeks.org/problems/equal-sum0810/1) | ✅ Done | — | Use prefix sum; if left sum == right sum return true else false. |
 | 26 | Buy Stock 2 | Medium | [GFG](https://www.geeksforgeeks.org/problems/buy-stock-2/1) | ✅ Done | — | Single transaction: keep |
-| 27.| Addition of Two Square Matrices         | Easy       | [GFG](https://www.geeksforgeeks.org/problems/addition-of-two-square-|  ✅ Done | — | Single transaction: keep|
+| 27.| Addition of Two Square Matrices         | Easy       | [GFG](https://www.geeksforgeeks.org/problems/addition-of-two-square-)|  ✅ Done | — | Single transaction: keep|
 | 28 | Replace elements by its rank | Medium | [GFG](https://www.geeksforgeeks.org/problems/replace-elements-by-its-rank-in-the-array/1) | ✅ Done | — | — |
 
 
