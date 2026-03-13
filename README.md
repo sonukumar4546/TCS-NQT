@@ -30,3 +30,4 @@
 | 26 | Buy Stock 2 | Medium | [GFG](https://www.geeksforgeeks.org/problems/buy-stock-2/1) |   |Add B into A: matrixA[i][j] += matrixB[i][j] `min).|
 | 27.| Addition of Two Square Matrices         | Easy       | [GFG](https://www.geeksforgeeks.org/problems/addition-of-two-square-matrices4916/1)|  ✅ Done | — | Single transaction: keep|
 | 28 | Replace elements by its rank | Medium | [GFG](https://www.geeksforgeeks.org/problems/replace-elements-by-its-rank-in-the-array/1) | ✅ Done | — | — |
+| 29 | Kadane's Algorithm | Medium | [GFG](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) | ✅ Done | — | Find maximum subarray sum using dynamic programming. |
