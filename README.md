@@ -36,3 +36,4 @@
 | 32 | Print first n Fibonacci Numbers | Basic | [GFG](https://www.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1) | ✅ Done | — | c = a + b |
 | 33 | Smallest and Second Smallest | Easy | [GFG](https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1) | ✅ Done | — | Tricky: update `min` and `secondMin`. |
 | 34 | Repeating and Missing Element | Medium | [GFG](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | ✅ Done | — | Use hashing/frequency array: freq[x]==0 ⇒ missing, freq[x]>1 ⇒ repeating. |
+| 35 | Max of ABC | Very Easy | [GFG](https://www.geeksforgeeks.org/problems/greatest-of-three-numbers2520/1) | ✅ Done | — | Max |
