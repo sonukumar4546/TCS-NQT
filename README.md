@@ -39,3 +39,4 @@
 | 35 | Max of ABC | Very Easy | [GFG](https://www.geeksforgeeks.org/problems/greatest-of-three-numbers2520/1) | ✅ Done | — | Max |
 | 36 | Floor in a Sorted Array | Easy | [GFG](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) | ✅ Done | — | Binary search: keep `ans=-1`; if `arr[mid] <= x` set `ans=mid` and move right, else move left. |
 | 37 | First and Last Occurrences of X | Medium | [GFG](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | ✅ Done | — | fc; high=mid-1; lc; low=mid+1|
+| 38 | Palindrome String | Easy | [GFG](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | ✅ Done | — | Two-pointer check (i, j) or reverse string and compare. | 
