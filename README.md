@@ -41,3 +41,4 @@
 | 37 | First and Last Occurrences of X | Medium | [GFG](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | ✅ Done | — | fc; high=mid-1; lc; low=mid+1|
 | 38 | Palindrome String | Easy | [GFG](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | ✅ Done | — | Two-pointer check (i, j) or reverse string and compare. | 
 | 39 | Reverse a String | Easy | [GFG](https://www.geeksforgeeks.org/problems/reverse-a-string/1) | ✅ Done | — | Two pointers: swap characters from ends moving inward. |
+| 40 | Reverse Words in a Given String | Medium | [GFG](https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1) | ✅ Done | — | Two pointers: reverse whole string, then reverse each word; swap chars in-place. |
