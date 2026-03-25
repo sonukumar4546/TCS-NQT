@@ -44,3 +44,4 @@
 | 40 | Reverse Words in a Given String | Medium | [GFG](https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1) | ✅ Done | — | Two pointers: reverse whole string, then reverse each word; swap chars in-place. |
 |41 | Non Repeating Character | medium | [GFG](https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1) | ✅ Done | — | Two pointers: reverse whole string, then reverse each word; swap chars in-place. |
 | 42 | Bubble Sort | Medium | [GFG](https://www.geeksforgeeks.org/problems/bubble-sort/1) | ✅ Done | — | Time: O(n²). Inner loop runs `j = 0` to `n - i - 2` (last compare at index `n - i - 1`). |
+| 43 | Selection Sort   | Medium     | [GFG](https://www.geeksforgeeks.org/problems/selection-sort/1) | ✅ Done     | —       | O(n²). Set `min` at `minIndex` each pass; swap with current i. |
