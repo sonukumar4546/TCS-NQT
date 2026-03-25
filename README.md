@@ -42,6 +42,6 @@
 | 38 | Palindrome String | Easy | [GFG](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | ✅ Done | — | Two-pointer check (i, j) or reverse string and compare. | 
 | 39 | Reverse a String | Easy | [GFG](https://www.geeksforgeeks.org/problems/reverse-a-string/1) | ✅ Done | — | Two pointers: swap characters from ends moving inward. |
 | 40 | Reverse Words in a Given String | Medium | [GFG](https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1) | ✅ Done | — | Two pointers: reverse whole string, then reverse each word; swap chars in-place. |
-|41 | Non Repeating Character | medium | [GFG](https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1) |-- | |
+|41 | Non Repeating Character | medium | [GFG](https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1) | ✅ Done | — | Two pointers: reverse whole string, then reverse each word; swap chars in-place. |
 
 | 41 | Bubble Sort | Medium | [GFG](https://www.geeksforgeeks.org/problems/bubble-sort/1) | ✅ Done | — | Time: O(n²). Inner loop runs `j = 0` to `n - i - 2` (last compare at index `n - i - 1`). |
