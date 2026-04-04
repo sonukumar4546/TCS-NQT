@@ -48,3 +48,4 @@
 | 44 | Insertion Sort | Medium | [GFG](https://www.geeksforgeeks.org/problems/insertion-sort/1) | ✅ Done | — | Insert at correct sorted position; if arr[j] < arr[j-1], swap. Repeat until sorted. |
 | 45 | Minimum element in BST | Easy | [GFG](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1) | ✅ Done | — | While `temp->left != nullptr`, move left; answer is the leftmost node’s value. |
 | 46 | Search a node in BST | Easy | [GFG](https://www.geeksforgeeks.org/problems/search-a-node-in-bst/1) | ✅ Done | — | Standard BST search: if `x < node->data` go left, if `x > node->data` go right; stop when found or node becomes null. |
+| 47 | Count BST nodes that lie in a given range | Medium | [GFG](https://www.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1) | ✅ Done | — | BST prune logic: if `node->data < low` go right; if `node->data > high` go left; else count it and search both. |
