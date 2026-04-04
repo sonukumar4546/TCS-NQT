@@ -47,3 +47,4 @@
 | 43 | Selection Sort   | Medium     | [GFG](https://www.geeksforgeeks.org/problems/selection-sort/1) | ✅ Done     | —       | O(n²). Set `min` at `minIndex` each pass; swap with current i. |
 | 44 | Insertion Sort | Medium | [GFG](https://www.geeksforgeeks.org/problems/insertion-sort/1) | ✅ Done | — | Insert at correct sorted position; if arr[j] < arr[j-1], swap. Repeat until sorted. |
 | 45 | Minimum element in BST | Easy | [GFG](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1) | ✅ Done | — | While `temp->left != nullptr`, move left; answer is the leftmost node’s value. |
+| 46 | Search a node in BST | Easy | [GFG](https://www.geeksforgeeks.org/problems/search-a-node-in-bst/1) | ✅ Done | — | Standard BST search: if `x < node->data` go left, if `x > node->data` go right; stop when found or node becomes null. |
